@@ -1324,7 +1324,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Manic",
@@ -1337,7 +1337,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Manic",
@@ -1350,7 +1350,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Manic",
@@ -1363,7 +1363,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Mestia",
@@ -1532,7 +1532,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Nanisivik",
@@ -1545,7 +1545,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Nanisivik",
@@ -1558,7 +1558,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Nanisivik",
@@ -1571,7 +1571,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Narva",
