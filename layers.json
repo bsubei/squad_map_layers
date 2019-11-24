@@ -1298,7 +1298,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Manic",
@@ -1311,7 +1311,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Manic",
