@@ -1874,6 +1874,19 @@
   },
   {
     "map": "Sumari",
+    "layer": "Sumari Invasion v1",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "team1": "US",
+    "team2": "INS",
+    "helicopters": false,
+    "night": false,
+    "RAA_Lanes": false,
+    "Invasion_Random": true,
+    "bugged": false
+  },
+  {
+    "map": "Sumari",
     "layer": "Sumari Insurgency v1",
     "gamemode": "Insurgency",
     "version": "v1",
