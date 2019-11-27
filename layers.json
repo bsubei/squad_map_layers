@@ -2095,7 +2095,7 @@
   },
   {
     "map": "Tallil Outskirts",
-    "layer": "Tallil Outskirts Tanks v1 Experimental",
+    "layer": "Tallil Outskirts Tanks v1",
     "gamemode": "Tanks",
     "version": "v1",
     "team1": "US",
@@ -2108,7 +2108,7 @@
   },
   {
     "map": "Tallil Outskirts",
-    "layer": "Tallil Outskirts Tanks v2 Experimental",
+    "layer": "Tallil Outskirts Tanks v2",
     "gamemode": "Tanks",
     "version": "v2",
     "team1": "GB",
