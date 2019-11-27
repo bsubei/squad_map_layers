@@ -35,7 +35,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -48,7 +48,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -139,7 +139,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -152,7 +152,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -165,7 +165,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -295,7 +295,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -308,7 +308,7 @@
     "helicopters": false,
     "night": true,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -378,7 +378,7 @@
   },
   {
     "map": "Fool's Road",
-    "layer": "Fool's Road AAS v3",
+    "layer": "Fool's Road AAS v2",
     "gamemode": "AAS",
     "version": "v3",
     "team1": "GB",
@@ -555,7 +555,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -568,7 +568,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -672,7 +672,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -803,7 +803,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -816,7 +816,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": true
   },
   {
@@ -829,7 +829,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -933,7 +933,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -998,7 +998,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1011,7 +1011,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1401,7 +1401,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1414,7 +1414,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1544,7 +1544,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": true
   },
   {
@@ -1752,7 +1752,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1960,7 +1960,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1973,7 +1973,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1986,7 +1986,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": true
   },
   {
@@ -2181,7 +2181,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
