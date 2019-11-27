@@ -391,6 +391,19 @@
   },
   {
     "map": "Fool's Road",
+    "layer": "Fool's Road Invasion v1",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "team1": "GB",
+    "team2": "MIL",
+    "helicopters": false,
+    "night": false,
+    "RAA_Lanes": false,
+    "Invasion_Random": true,
+    "bugged": false
+  },
+  {
+    "map": "Fool's Road",
     "layer": "Fool's Road Destruction v1",
     "gamemode": "Destruction",
     "version": "v1",
