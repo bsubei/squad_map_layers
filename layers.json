@@ -673,7 +673,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Gorodok",
@@ -686,7 +686,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Gorodok",
@@ -699,7 +699,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
 
   {
@@ -934,7 +934,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Kamdesh",
@@ -947,7 +947,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Kamdesh",
@@ -960,7 +960,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Kohat",
@@ -1116,7 +1116,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Kohat",
@@ -2338,7 +2338,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Yehorivka",
@@ -2351,7 +2351,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": false
+    "bugged": true
   },
   {
     "map": "Yehorivka",
@@ -2364,6 +2364,6 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": false
+    "bugged": true
   }
 ]
