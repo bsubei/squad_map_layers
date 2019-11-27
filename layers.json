@@ -35,7 +35,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -48,7 +48,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -139,7 +139,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -152,7 +152,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -165,7 +165,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -295,12 +295,12 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
     "map": "Chora",
-    "layer": "Chora Invasion v1 Night",
+    "layer": "Chora Invasion v2",
     "gamemode": "Invasion",
     "version": "v1",
     "team1": "US",
@@ -308,7 +308,7 @@
     "helicopters": false,
     "night": true,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -378,7 +378,7 @@
   },
   {
     "map": "Fool's Road",
-    "layer": "Fool's Road AAS v3",
+    "layer": "Fool's Road AAS v2",
     "gamemode": "AAS",
     "version": "v3",
     "team1": "GB",
@@ -387,6 +387,19 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
+    "bugged": false
+  },
+  {
+    "map": "Fool's Road",
+    "layer": "Fool's Road Invasion v1",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "team1": "GB",
+    "team2": "MIL",
+    "helicopters": false,
+    "night": false,
+    "RAA_Lanes": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -542,7 +555,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -555,7 +568,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -659,7 +672,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -790,7 +803,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -803,7 +816,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": true
   },
   {
@@ -816,7 +829,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -824,8 +837,8 @@
     "layer": "Kamdesh RAAS v1",
     "gamemode": "RAAS",
     "version": "v1",
-    "team1": "GB",
-    "team2": "RU",
+    "team1": "MIL",
+    "team2": "INS",
     "helicopters": false,
     "night": false,
     "RAA_Lanes": true,
@@ -920,7 +933,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -985,7 +998,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -998,7 +1011,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1388,7 +1401,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1401,7 +1414,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1436,7 +1449,7 @@
     "gamemode": "TC",
     "version": "v1",
     "team1": "US",
-    "team2": "MIL",
+    "team2": "RU",
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
@@ -1531,7 +1544,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": true
   },
   {
@@ -1739,7 +1752,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1861,6 +1874,19 @@
   },
   {
     "map": "Sumari",
+    "layer": "Sumari Invasion v1",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "team1": "US",
+    "team2": "INS",
+    "helicopters": false,
+    "night": false,
+    "RAA_Lanes": false,
+    "Invasion_Random": true,
+    "bugged": false
+  },
+  {
+    "map": "Sumari",
     "layer": "Sumari Insurgency v1",
     "gamemode": "Insurgency",
     "version": "v1",
@@ -1947,7 +1973,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1960,7 +1986,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
@@ -1973,7 +1999,7 @@
     "helicopters": false,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": true
   },
   {
@@ -2069,7 +2095,7 @@
   },
   {
     "map": "Tallil Outskirts",
-    "layer": "Tallil Outskirts Tanks v1 Experimental",
+    "layer": "Tallil Outskirts Tanks v1",
     "gamemode": "Tanks",
     "version": "v1",
     "team1": "US",
@@ -2082,7 +2108,7 @@
   },
   {
     "map": "Tallil Outskirts",
-    "layer": "Tallil Outskirts Tanks v2 Experimental",
+    "layer": "Tallil Outskirts Tanks v2",
     "gamemode": "Tanks",
     "version": "v2",
     "team1": "GB",
@@ -2168,7 +2194,7 @@
     "helicopters": true,
     "night": false,
     "RAA_Lanes": false,
-    "Invasion_Random": false,
+    "Invasion_Random": true,
     "bugged": false
   },
   {
