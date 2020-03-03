@@ -724,7 +724,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -738,7 +738,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -752,7 +752,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -1004,7 +1004,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -1018,7 +1018,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -1032,7 +1032,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -1186,7 +1186,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -1200,7 +1200,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -1410,7 +1410,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1424,7 +1424,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1438,7 +1438,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1452,7 +1452,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1466,7 +1466,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1480,7 +1480,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1662,7 +1662,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1676,7 +1676,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1690,7 +1690,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -1704,7 +1704,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "unknown"
   },
   {
@@ -2516,7 +2516,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -2530,7 +2530,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": true,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   },
   {
@@ -2544,7 +2544,7 @@
     "night": false,
     "RAA_Lanes": false,
     "Invasion_Random": false,
-    "bugged": true,
+    "bugged": false,
     "map_size": "large"
   }
 ]
